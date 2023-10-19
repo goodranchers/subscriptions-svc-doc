@@ -2,16 +2,16 @@ import React from 'react'
 import { DocsThemeConfig } from 'nextra-theme-docs'
 
 const config: DocsThemeConfig = {
-  logo: <span>My Project</span>,
+  logo: <span>Subscription Service</span>,
   project: {
-    link: 'https://github.com/shuding/nextra-docs-template',
+    link: 'https://github.com/goodranchers/subscriptions-svc',
   },
   chat: {
-    link: 'https://discord.com',
+    link: 'https://goodranchers.slack.com/archives/C03UKLH7NS1',
   },
-  docsRepositoryBase: 'https://github.com/shuding/nextra-docs-template',
+  docsRepositoryBase: 'https://github.com/goodranchers/subscriptions-svc',
   footer: {
-    text: 'Nextra Docs Template',
+    text: 'Subscription Service',
   },
 }
 
